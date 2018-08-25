@@ -1,0 +1,2 @@
+* Change loggger.go->Log->from to a goro UID defined upon connection. [Can be user UID]
+* Add system logging for logger creation.

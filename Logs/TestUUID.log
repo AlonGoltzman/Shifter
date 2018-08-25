@@ -1,0 +1,18 @@
+{"action":"Create Logger","level":"debug","log_type":"System","msg":"","time":"2018-08-25T20:01:43+03:00"}
+{"action":"Testing Logger","level":"debug","log_type":"SysTests","msg":"","time":"2018-08-25T20:01:43+03:00"}
+{"action":"Testing Logger","content":"This is a long test.","level":"debug","log_type":"SysTests","msg":"","time":"2018-08-25T20:01:45+03:00"}
+{"action":"Create Logger","level":"debug","log_type":"System","msg":"\u003cnil\u003e","time":"2018-08-25T20:02:34+03:00"}
+{"action":"Testing Logger","level":"debug","log_type":"SysTests","msg":"\u003cnil\u003e","time":"2018-08-25T20:02:34+03:00"}
+{"action":"Testing Logger","level":"debug","log_type":"SysTests","msg":"This is a long test.","time":"2018-08-25T20:02:36+03:00"}
+{"action":"Create Logger","level":"debug","log_type":"System","msg":"","time":"2018-08-25T20:03:27+03:00"}
+{"action":"Testing Logger","level":"debug","log_type":"SysTests","msg":"","time":"2018-08-25T20:03:27+03:00"}
+{"action":"Testing Logger","level":"debug","log_type":"SysTests","msg":"This is a long test.","time":"2018-08-25T20:03:29+03:00"}
+{"action":"Create Logger","fields.time":"1535216810","level":"debug","log_type":"System","msg":"","time":"2018-08-25T20:06:50+03:00"}
+{"action":"Testing Logger","fields.time":"1535216810","level":"debug","log_type":"SysTests","msg":"","time":"2018-08-25T20:06:50+03:00"}
+{"action":"Testing Logger","fields.time":"1535216812","level":"debug","log_type":"SysTests","msg":"This is a long test.","time":"2018-08-25T20:06:52+03:00"}
+{"action":"Create Logger","fields.time":"1535216908","level":"debug","log_type":"System","msg":"","time":"2018-08-25T20:08:28+03:00"}
+{"action":"Testing Logger","fields.time":"1535216908","level":"debug","log_type":"SysTests","msg":"","time":"2018-08-25T20:08:28+03:00"}
+{"action":"Testing Logger","fields.time":"1535216910","level":"debug","log_type":"SysTests","msg":"This is a long test.","time":"2018-08-25T20:08:30+03:00"}
+{"action":"Create Logger","epoch":"1535217094","level":"debug","log_type":"System","msg":"","time":"2018-08-25T20:11:34+03:00"}
+{"action":"Testing Logger","epoch":"1535217094","level":"debug","log_type":"SysTests","msg":"","time":"2018-08-25T20:11:34+03:00"}
+{"action":"Testing Logger","epoch":"1535217096","level":"debug","log_type":"SysTests","msg":"This is a long test.","time":"2018-08-25T20:11:36+03:00"}
